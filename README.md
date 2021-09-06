@@ -4,7 +4,7 @@ CZ2002 - Object Oriented Design & Programming (Project)
 This is a console application which mimics the working of NTU Stars Planner.
 
 ## Funtional Requirements
-**Student**
+**Student**<br>
 Add Course\m
 Drop Course\m
 Check/Print Courses Registered\m
