@@ -5,12 +5,12 @@ This is a console application which mimics the working of NTU Stars Planner.
 
 ## Funtional Requirements
 **Student**
-Add Course
-Drop Course
-Check/Print Courses Registered
-Check Vacancies Available
-Change Index Number of Course
-Swop Index Number with Another Student
+Add Course\m
+Drop Course\m
+Check/Print Courses Registered\m
+Check Vacancies Available\m
+Change Index Number of Course\m
+Swop Index Number with Another Student\m
 **Admin**
 Edit student access period
 Add a student (name, matric number, gender, nationality, etc)
